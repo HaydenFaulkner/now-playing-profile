@@ -4,6 +4,7 @@ Guide by [JoshLmao](https://github.com/JoshLmao)
 
 ### Part 1: Vercel & Deploy
 
+
 Setup with a click of a button 😉
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/joshlmao/now-playing-profile)
